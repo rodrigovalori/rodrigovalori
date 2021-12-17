@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on back-end software development
+- 🔭 I’m currently working with back-end software development
 - 📫 How to reach me: rodpalinkas@gmail.com
 - 😄 Pronouns: he/him
 
