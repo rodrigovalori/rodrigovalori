@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working with back-end software development
 - 📫 How to reach me: rodpalinkas@gmail.com
-- 😄 Pronouns: he/him
 
 ## Some of my stats 📈
 <div align="center">
