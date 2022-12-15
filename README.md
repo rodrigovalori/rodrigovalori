@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working with back-end software development
+- 🔭 Currently working with backend software development
 - 📫 How to reach me: rodpalinkas@gmail.com
 
 ## Some of my stats 📈
